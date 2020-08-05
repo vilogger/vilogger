@@ -30,7 +30,7 @@
 
 |  <a href="https://vilogger.github.io/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[Hritik Jaiswal](https://vilogger.github.io/)**                                                                                |
+|       **[Vilogger](https://vilogger.github.io/)**                                                                                |
 |<a href="https://t.me/levandat"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width="32px" height="32px"></a> <a href="https://github.com/vilogger"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/vilogger.dev"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> |
 
 
