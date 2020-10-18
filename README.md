@@ -5,7 +5,7 @@
 
 :smiley: Member of **GSI ROM Vietnam Community(https://www.facebook.com/groups/214533623327803/)** 
 
-👨‍🎓 I'm studying at **[HUTECH UNIVERSITY](https://www.hutech.edu.vn/)** 
+👨‍🎓 I'm studying at **[CANTHO UNIVERSITY](https://ctu.edu.vn/)** 
 
 ### About me :eyes:
 
